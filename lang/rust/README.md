@@ -12,3 +12,11 @@
 
 - `rustc filename.rs`
 - `rustc filename.rs --out-dir ../../../dist`
+
+### Using Cargo
+
+- `cargo new project-name`
+- `cargo init`
+- `cargo check`
+- `cargo build`
+- `cargo run`

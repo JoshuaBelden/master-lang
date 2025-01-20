@@ -1,1 +1,16 @@
-dist/
+# Global
+
+# JavaScript
+
+# TypeScript
+
+# Python
+
+# Ruby
+
+# C#
+
+# Rust
+**/target/
+
+# Erlang
