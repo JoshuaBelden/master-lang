@@ -8,3 +8,7 @@
 - `rustc --version`
 - ` rustup update`
 
+### Build
+
+- `rustc filename.rs`
+- `rustc filename.rs --out-dir ../../../dist`
